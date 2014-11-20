@@ -2,7 +2,7 @@
 
 ## Summary
 
-Peersste is a suite of financial tools in a protocol built on top of the
+PeerAsset is a suite of financial tools in a protocol built on top of the
 Peercoin blockchain and using the blockchain as a service for the reliable
 publication and timestamping of its messages.
 
